@@ -42,7 +42,3 @@ https://youtu.be/PXinp04QQcg
 
 ```bash
    npm run dev
-
-
-
-
